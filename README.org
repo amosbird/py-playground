@@ -1,0 +1,11 @@
+* python playground in emacs (WIP)
+
+Currently it's tightly coupled with [[https://github.com/hlissner/doom-emacs][Doom Emacs]]
+
+** Requirements
+
+1. tmux
+
+2. direnv
+
+3. pudb
